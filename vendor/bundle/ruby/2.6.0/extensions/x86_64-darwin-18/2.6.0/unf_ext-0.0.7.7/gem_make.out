@@ -1,5 +1,5 @@
 current directory: /Users/sakamotoharuki/workspace/kintoregram/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
-/Users/sakamotoharuki/.rbenv/versions/2.6.6/bin/ruby -I /Users/sakamotoharuki/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210325-91118-gif5zr.rb extconf.rb
+/Users/sakamotoharuki/.rbenv/versions/2.6.6/bin/ruby -I /Users/sakamotoharuki/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210325-97692-kajyso.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
@@ -35,4 +35,4 @@ linking shared-object unf_ext.bundle
 
 current directory: /Users/sakamotoharuki/workspace/kintoregram/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210325-91118-1ujpjjc
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210325-97692-jx5pgp

@@ -118,7 +118,7 @@ checked program was:
 "clang -o conftest -I/Users/sakamotoharuki/.rbenv/versions/2.6.6/include/ruby-2.6.0/x86_64-darwin18 -I/Users/sakamotoharuki/.rbenv/versions/2.6.6/include/ruby-2.6.0/ruby/backward -I/Users/sakamotoharuki/.rbenv/versions/2.6.6/include/ruby-2.6.0 -I. -I/Users/sakamotoharuki/.rbenv/versions/2.6.6/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -Wno-error=shorten-64-to-32  -fno-common -pipe conftest.c  -L. -L/Users/sakamotoharuki/.rbenv/versions/2.6.6/lib -L. -L/Users/sakamotoharuki/.rbenv/versions/2.6.6/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.2.6   "
 Undefined symbols for architecture x86_64:
   "_rb_enc_interned_str", referenced from:
-      _t in conftest-fb2bb6.o
+      _t in conftest-f60c52.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

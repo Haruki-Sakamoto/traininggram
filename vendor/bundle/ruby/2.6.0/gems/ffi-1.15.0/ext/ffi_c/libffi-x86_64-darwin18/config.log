@@ -30,8 +30,8 @@ Kernel configured for up to 8 processors.
 Processor type: x86_64h (Intel x86-64h Haswell)
 Processors active: 0 1 2 3 4 5 6 7
 Primary memory available: 8.00 gigabytes
-Default processor set: 435 tasks, 2163 threads, 8 processors
-Load average: 7.91, Mach factor: 1.53
+Default processor set: 417 tasks, 1881 threads, 8 processors
+Load average: 5.84, Mach factor: 2.33
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
@@ -796,7 +796,7 @@ configure:17482: checking for memfd_create
 configure:17482: clang -o conftest  -Wall -fexceptions   conftest.c  >&5
 Undefined symbols for architecture x86_64:
   "_memfd_create", referenced from:
-      _main in conftest-373ddc.o
+      _main in conftest-85fbc6.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 configure:17482: $? = 1
