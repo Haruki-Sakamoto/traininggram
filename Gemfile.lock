@@ -133,6 +133,7 @@ GEM
     nokogiri (1.11.2-x86_64-darwin)
       racc (~> 1.4)
     orm_adapter (0.5.0)
+    pg (1.2.3)
     public_suffix (4.0.6)
     puma (3.12.6)
     racc (1.5.2)
@@ -256,6 +257,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
+  pg
   puma (~> 3.11)
   rails (~> 5.2.4, >= 5.2.4.1)
   refile!
@@ -271,7 +273,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-   ruby 2.5.7p206
+   ruby 2.6.6p146
 
 BUNDLED WITH
    2.2.14
